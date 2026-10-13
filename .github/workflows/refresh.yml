@@ -1,15 +1,14 @@
 name: Refresh league data
 
 on:
-  # Tuesdays at 8am Eastern during the season (Sep → Jan), so the week's
-  # results land before anyone looks. Cron has no DST, so the hour is split by
-  # month: 12:00 UTC while EDT is in effect, 13:00 UTC once EST starts in
-  # November. The odd minute is deliberate — GitHub queues top-of-the-hour
-  # schedules and has delayed this workflow by hours.
+  # Start at 4:11am Eastern with 8:11am/noon catch-up runs. GitHub can delay
+  # or drop scheduled runs; one Tuesday trigger has proved insufficient.
+  # Unchanged data preserves timestamps, so retries do not cause redeploys.
+  # Cron has no DST; split EDT/EST by month and avoid the busy hour boundary.
   schedule:
-    - cron: "11 12 * 9,10 2"    # Sep-Oct  — 8:11am EDT
-    - cron: "11 13 * 11,12 2"   # Nov-Dec  — 8:11am EST
-    - cron: "11 13 * 1 2"       # Jan      — 8:11am EST
+    - cron: "11 8,12,16 * 9,10 2"    # Sep-Oct — 4:11am, 8:11am, noon EDT
+    - cron: "11 9,13,17 * 11,12 2"   # Nov-Dec — 4:11am, 8:11am, noon EST
+    - cron: "11 9,13,17 * 1 2"       # Jan     — 4:11am, 8:11am, noon EST
   # Allow manual runs
   workflow_dispatch:
     inputs:
@@ -23,9 +22,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: league-data-refresh
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v6
         with:
@@ -38,6 +42,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Check refresh regressions
+        run: python -m unittest discover -s tests -v
 
       - name: Run pipeline
         env:

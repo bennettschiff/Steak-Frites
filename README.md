@@ -65,13 +65,20 @@ available for an explicit override.
 
 ## Weekly auto-refresh
 
-`.github/workflows/refresh.yml` runs every Tuesday at 8am Eastern during the
-season (September through January), once the week's matchups are final:
+`.github/workflows/refresh.yml` starts every Tuesday at 4:11am Eastern during
+the season (September through January), with catch-up runs at 8:11am and
+12:11pm. GitHub schedules can be delayed or dropped, so these are multiple
+opportunities to publish the final week's matchups rather than a timing guarantee:
 
 1. Reads ESPN cookies from repo secrets `ESPN_S2` and `SWID`.
 2. Runs the pipeline.
 3. Commits any data diff back to `main`.
 4. Vercel sees the new commit and rebuilds.
+
+Overlapping league refreshes are serialized and each run has a 15-minute limit.
+Active-season pull failures or missing completed-week player lineups fail the
+job instead of silently publishing stale records. Unchanged retry runs preserve
+generated timestamps and do not create extra commits or deployments.
 
 Set the secrets in GitHub → repo Settings → Secrets → Actions:
 - `ESPN_S2` — value of the `espn_s2` cookie

@@ -190,6 +190,27 @@ def write_season(year: int, payload: dict):
     )
 
 
+def validate_current_season(payload: dict) -> None:
+    """Do not publish a partial pull as a successful weekly records refresh."""
+    teams = payload.get("teams") or []
+    if not teams:
+        raise ValueError("Active season has no teams")
+    completed_weeks = max(t["wins"] + t["losses"] + t["ties"] for t in teams)
+    team_ids = {t["team_id"] for t in teams}
+    for week in range(1, completed_weeks + 1):
+        matchups = [m for m in payload["matchups"] if m["week"] == week]
+        scored_teams = {
+            m[f"{side}_team_id"]
+            for m in matchups
+            for side in ("home", "away")
+            if m.get(f"{side}_score") is not None
+        }
+        rows = payload["box_scores"].get(week, payload["box_scores"].get(str(week), []))
+        lineup_teams = {r["team_id"] for r in rows}
+        if not team_ids.issubset(scored_teams) or not team_ids.issubset(lineup_teams):
+            raise ValueError(f"Active season Week {week} is missing scores or player lineups")
+
+
 def build_owners_index() -> list[dict]:
     """Walk every season to build a canonical owner table keyed on member id.
 
@@ -289,9 +310,16 @@ def main():
     for year in YEARS:
         try:
             payload = season_to_dict(year)
+            if year == CURRENT_YEAR:
+                validate_current_season(payload)
             write_season(year, payload)
         except Exception as e:
             print(f"  FAILED {year}: {e}")
+            if year == CURRENT_YEAR:
+                # Historical seasons can retain their cached files, but an
+                # active-season failure must stop before records are rebuilt
+                # and meta.updated_at claims a successful fresh pull.
+                raise
             traceback.print_exc()
 
     owners = build_owners_index()
