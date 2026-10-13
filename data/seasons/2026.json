@@ -2225,7 +2225,7 @@
         "pro_team": "PHI",
         "points": 8.5,
         "projected_points": 16.4,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -2285,7 +2285,7 @@
         "pro_team": "CHI",
         "points": 37.26,
         "projected_points": 16.93,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -2309,7 +2309,7 @@
         "pro_team": "LAC",
         "points": 2.7,
         "projected_points": 8.82,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -2477,7 +2477,7 @@
         "pro_team": "PHI",
         "points": 6.8,
         "projected_points": 12.16,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -2645,7 +2645,7 @@
         "pro_team": "BUF",
         "points": 18.5,
         "projected_points": 9.64,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -2681,7 +2681,7 @@
         "pro_team": "WSH",
         "points": 13.5,
         "projected_points": 7.49,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -2741,7 +2741,7 @@
         "pro_team": "MIN",
         "points": 0.0,
         "projected_points": 8.14,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -2861,7 +2861,7 @@
         "pro_team": "NYJ",
         "points": 18.8,
         "projected_points": 14.97,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -2885,7 +2885,7 @@
         "pro_team": "PIT",
         "points": 3.1,
         "projected_points": 11.65,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -3581,7 +3581,7 @@
         "pro_team": "CHI",
         "points": 19.4,
         "projected_points": 9.5,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -3641,7 +3641,7 @@
         "pro_team": "BAL",
         "points": 24.96,
         "projected_points": 19.71,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -4435,7 +4435,7 @@
         "pro_team": "BUF",
         "points": -0.1,
         "projected_points": 10.49,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -4471,7 +4471,7 @@
         "pro_team": "WSH",
         "points": 19.2,
         "projected_points": 8.08,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -4579,7 +4579,7 @@
         "pro_team": "MIA",
         "points": 2.9,
         "projected_points": 7.56,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -4639,7 +4639,7 @@
         "pro_team": "BAL",
         "points": 15.8,
         "projected_points": 22.16,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -5059,7 +5059,7 @@
         "pro_team": "PHI",
         "points": 22.7,
         "projected_points": 11.31,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -5767,7 +5767,7 @@
         "pro_team": "CHI",
         "points": 6.8,
         "projected_points": 9.08,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -5851,7 +5851,7 @@
         "pro_team": "NYJ",
         "points": 11.7,
         "projected_points": 14.31,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -5875,7 +5875,7 @@
         "pro_team": "PIT",
         "points": 5.4,
         "projected_points": 9.11,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -6007,7 +6007,7 @@
         "pro_team": "PHI",
         "points": 2.5,
         "projected_points": 16.38,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -6067,7 +6067,7 @@
         "pro_team": "CHI",
         "points": 8.72,
         "projected_points": 19.96,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -6091,7 +6091,7 @@
         "pro_team": "LAC",
         "points": 1.9,
         "projected_points": 8.47,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -6237,7 +6237,7 @@
         "pro_team": "BUF",
         "points": 9.7,
         "projected_points": 10.48,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -6261,7 +6261,7 @@
         "pro_team": "WSH",
         "points": 5.3,
         "projected_points": 8.34,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -6333,7 +6333,7 @@
         "pro_team": "MIA",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -6441,7 +6441,7 @@
         "pro_team": "BAL",
         "points": 20.44,
         "projected_points": 21.59,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -6753,7 +6753,7 @@
         "pro_team": "CHI",
         "points": 3.1,
         "projected_points": 7.67,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -6873,7 +6873,7 @@
         "pro_team": "PHI",
         "points": 9.5,
         "projected_points": 12.73,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -7257,7 +7257,7 @@
         "pro_team": "NYJ",
         "points": 7.0,
         "projected_points": 14.61,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -7281,7 +7281,7 @@
         "pro_team": "PIT",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -8025,7 +8025,7 @@
         "pro_team": "PHI",
         "points": 8.5,
         "projected_points": 16.13,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -8085,7 +8085,7 @@
         "pro_team": "CHI",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -8109,7 +8109,7 @@
         "pro_team": "LAC",
         "points": 5.5,
         "projected_points": 9.13,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -8255,7 +8255,7 @@
         "pro_team": "BAL",
         "points": 18.88,
         "projected_points": 21.67,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -8687,7 +8687,7 @@
         "pro_team": "PHI",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -9191,7 +9191,7 @@
         "pro_team": "MIN",
         "points": 7.1,
         "projected_points": 12.49,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -9263,7 +9263,7 @@
         "pro_team": "BUF",
         "points": 2.2,
         "projected_points": 10.84,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -9287,7 +9287,7 @@
         "pro_team": "WSH",
         "points": 6.0,
         "projected_points": 10.28,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -9347,7 +9347,7 @@
         "pro_team": "MIA",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -9443,7 +9443,7 @@
         "pro_team": "PHI",
         "points": 1.5,
         "projected_points": 13.35,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -9503,7 +9503,7 @@
         "pro_team": "CHI",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -9527,7 +9527,7 @@
         "pro_team": "LAC",
         "points": 4.5,
         "projected_points": 7.02,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -9767,7 +9767,7 @@
         "pro_team": "CHI",
         "points": 27.5,
         "projected_points": 7.57,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -9887,7 +9887,7 @@
         "pro_team": "NYJ",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -9911,7 +9911,7 @@
         "pro_team": "PIT",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -10369,7 +10369,7 @@
         "pro_team": "CHI",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -10693,7 +10693,7 @@
         "pro_team": "BAL",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -10909,7 +10909,7 @@
         "pro_team": "NYJ",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -10933,7 +10933,7 @@
         "pro_team": "PIT",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -11269,7 +11269,7 @@
         "pro_team": "PHI",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -11329,7 +11329,7 @@
         "pro_team": "CHI",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -11797,7 +11797,7 @@
         "pro_team": "MIN",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -11905,7 +11905,7 @@
         "pro_team": "BUF",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -11929,7 +11929,7 @@
         "pro_team": "WSH",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -12133,7 +12133,7 @@
         "pro_team": "PHI",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -12350,7 +12350,7 @@
         "slot_position": "WR",
         "pro_team": "PIT",
         "points": 0.0,
-        "projected_points": 9.75,
+        "projected_points": 9.78,
         "injury_status": "ACTIVE"
       },
       {
@@ -12411,7 +12411,7 @@
         "pro_team": "MIN",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -12519,7 +12519,7 @@
         "pro_team": "BAL",
         "points": 0.0,
         "projected_points": 19.78,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -12542,7 +12542,7 @@
         "slot_position": "RB",
         "pro_team": "PIT",
         "points": 0.0,
-        "projected_points": 13.17,
+        "projected_points": 13.18,
         "injury_status": "ACTIVE"
       },
       {
@@ -12747,7 +12747,7 @@
         "pro_team": "PHI",
         "points": 0.0,
         "projected_points": 11.83,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -12794,7 +12794,7 @@
         "slot_position": "WR",
         "pro_team": "ARI",
         "points": 0.0,
-        "projected_points": 11.47,
+        "projected_points": 11.49,
         "injury_status": "ACTIVE"
       },
       {
@@ -13046,7 +13046,7 @@
         "slot_position": "BE",
         "pro_team": "LAC",
         "points": 0.0,
-        "projected_points": 6.49,
+        "projected_points": 6.47,
         "injury_status": "ACTIVE"
       },
       {
@@ -13131,7 +13131,7 @@
         "pro_team": "NYJ",
         "points": 0.0,
         "projected_points": 12.57,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -13154,8 +13154,8 @@
         "slot_position": "IR",
         "pro_team": "PIT",
         "points": 0.0,
-        "projected_points": 5.62,
-        "injury_status": "OUT"
+        "projected_points": 5.63,
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -13394,7 +13394,7 @@
         "slot_position": "K",
         "pro_team": "LAR",
         "points": 0.0,
-        "projected_points": 9.79,
+        "projected_points": 0.0,
         "injury_status": "ACTIVE"
       },
       {
@@ -13407,7 +13407,7 @@
         "pro_team": "CHI",
         "points": 0.0,
         "projected_points": 9.47,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -13490,7 +13490,7 @@
         "slot_position": "RB/WR/TE",
         "pro_team": "LAR",
         "points": 0.0,
-        "projected_points": 19.19,
+        "projected_points": 19.18,
         "injury_status": "ACTIVE"
       },
       {
@@ -13514,7 +13514,7 @@
         "slot_position": "RB/WR/TE",
         "pro_team": "ARI",
         "points": 0.0,
-        "projected_points": 10.27,
+        "projected_points": 10.28,
         "injury_status": "ACTIVE"
       },
       {
@@ -13718,7 +13718,7 @@
         "slot_position": "TE",
         "pro_team": "ARI",
         "points": 0.0,
-        "projected_points": 13.19,
+        "projected_points": 13.21,
         "injury_status": "ACTIVE"
       },
       {
@@ -13814,7 +13814,7 @@
         "slot_position": "D/ST",
         "pro_team": "LAR",
         "points": 0.0,
-        "projected_points": 7.33,
+        "projected_points": 7.02,
         "injury_status": "NORMAL"
       },
       {
@@ -13899,7 +13899,7 @@
         "pro_team": "PHI",
         "points": 0.0,
         "projected_points": 12.89,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -13910,7 +13910,7 @@
         "slot_position": "BE",
         "pro_team": "LAC",
         "points": 0.0,
-        "projected_points": 8.18,
+        "projected_points": 8.15,
         "injury_status": "QUESTIONABLE"
       },
       {
@@ -13959,7 +13959,7 @@
         "pro_team": "CHI",
         "points": 0.0,
         "projected_points": 17.35,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -14114,7 +14114,7 @@
         "slot_position": "TE",
         "pro_team": "LV",
         "points": 0.0,
-        "projected_points": 16.0,
+        "projected_points": 15.99,
         "injury_status": "ACTIVE"
       },
       {
@@ -14127,7 +14127,7 @@
         "pro_team": "BUF",
         "points": 0.0,
         "projected_points": 11.33,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -14151,7 +14151,7 @@
         "pro_team": "WSH",
         "points": 0.0,
         "projected_points": 8.12,
-        "injury_status": "OUT"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
