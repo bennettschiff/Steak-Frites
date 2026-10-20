@@ -5,6 +5,7 @@ A living history site for the Steak Frites fantasy football league.
 - **Records & fun facts:** all-time leaderboards, blowouts, scoring records, streaks, champions.
 - **Per-season recaps:** standings, weekly results, drafts.
 - **Owner profiles:** lifetime record, head-to-head matrix, keeper history, full draft history.
+- **Ben:** `/ben` compares Katz, Schiff, Wolbransky, and Goldstein with standings, a head-to-head grid, six rivalries, scoring highlights, and every recorded meeting. Season and game-type filters separate regular season, championship playoffs, and consolation games.
 - **Weekly power rankings:** phase-aware model scores plus a Google Sheet editor desk for commentary, featured teams, publishing controls, and bounded adjustments.
 - **Keeper planner:** pick up to 2 players from your end-of-season roster, see if it's legal under the rules, see the cost (drafted round, or ADP-equivalent for repeat keepers).
   Repeat-keeper costs use current 10-team, 0.5-PPR ADP from Fantasy Football Calculator.
@@ -32,6 +33,7 @@ cd web
 npm install
 npm run dev          # http://localhost:3000
 npm run build        # production build (also catches type errors)
+npm run test:ben     # Node 22.6+: Ben record edge cases + reconciliation with Versus
 ```
 
 ### Cookies
@@ -104,6 +106,18 @@ only through committed data changes.
 
 The retired Newsroom product concept is preserved in
 `docs/newsroom-concept.md` for a possible future revival.
+
+### Ben page maintenance
+
+`web/src/lib/ben.ts` selects the four canonical owner IDs from season-level team
+ownership, so renamed teams and merged co-owner accounts follow the same history
+as Versus. `/ben` reads the existing committed season data during the normal site
+build; it needs no new pipeline step, credentials, migration, or service.
+It honors `meta.excluded_record_years` (currently 2021), skips unplayed/bye entries,
+and counts each pair once per week. The dashboard includes all scored game types
+by default, with championship-bracket playoffs and consolation games separately
+labeled. `web/tests/ben.test.mjs` checks edge cases and reconciles every directed
+Ben series with the existing Versus computation.
 
 ## Keeper rules (encoded in `pipeline/config.py`)
 
