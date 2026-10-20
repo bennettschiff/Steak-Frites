@@ -6470,11 +6470,11 @@
       "player_id": 3139477,
       "player_name": "Patrick Mahomes",
       "position": "QB",
-      "weeks_started": 84,
+      "weeks_started": 83,
       "wins_when_started": 52,
-      "win_rate_when_started": 0.619,
+      "win_rate_when_started": 0.6265,
       "total_starting_points": 1807.12,
-      "ppg_started": 21.51,
+      "ppg_started": 21.77,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6482,11 +6482,11 @@
       "player_id": 3916387,
       "player_name": "Lamar Jackson",
       "position": "QB",
-      "weeks_started": 89,
+      "weeks_started": 90,
       "wins_when_started": 50,
-      "win_rate_when_started": 0.5618,
+      "win_rate_when_started": 0.5556,
       "total_starting_points": 2011.46,
-      "ppg_started": 22.6,
+      "ppg_started": 22.35,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6530,11 +6530,11 @@
       "player_id": 16800,
       "player_name": "Davante Adams",
       "position": "WR",
-      "weeks_started": 89,
+      "weeks_started": 88,
       "wins_when_started": 45,
-      "win_rate_when_started": 0.5056,
+      "win_rate_when_started": 0.5114,
       "total_starting_points": 1362.0,
-      "ppg_started": 15.3,
+      "ppg_started": 15.48,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6554,11 +6554,11 @@
       "player_id": 4035538,
       "player_name": "David Montgomery",
       "position": "RB",
-      "weeks_started": 78,
+      "weeks_started": 79,
       "wins_when_started": 44,
-      "win_rate_when_started": 0.5641,
+      "win_rate_when_started": 0.557,
       "total_starting_points": 956.34,
-      "ppg_started": 12.26,
+      "ppg_started": 12.11,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6566,11 +6566,11 @@
       "player_id": 4047365,
       "player_name": "Josh Jacobs",
       "position": "RB",
-      "weeks_started": 85,
+      "weeks_started": 86,
       "wins_when_started": 44,
-      "win_rate_when_started": 0.5176,
+      "win_rate_when_started": 0.5116,
       "total_starting_points": 1261.0,
-      "ppg_started": 14.84,
+      "ppg_started": 14.66,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6602,11 +6602,11 @@
       "player_id": 3042519,
       "player_name": "Aaron Jones",
       "position": "RB",
-      "weeks_started": 74,
+      "weeks_started": 75,
       "wins_when_started": 40,
-      "win_rate_when_started": 0.5405,
+      "win_rate_when_started": 0.5333,
       "total_starting_points": 1053.2,
-      "ppg_started": 14.23,
+      "ppg_started": 14.04,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6794,11 +6794,11 @@
       "player_id": 4262921,
       "player_name": "Justin Jefferson",
       "position": "WR",
-      "weeks_started": 67,
+      "weeks_started": 68,
       "wins_when_started": 32,
-      "win_rate_when_started": 0.4776,
+      "win_rate_when_started": 0.4706,
       "total_starting_points": 978.94,
-      "ppg_started": 14.61,
+      "ppg_started": 14.4,
       "seasons_count": 6,
       "last_year": 2026
     },
@@ -6830,11 +6830,11 @@
       "player_id": -16033,
       "player_name": "Ravens D/ST",
       "position": "D/ST",
-      "weeks_started": 60,
+      "weeks_started": 59,
       "wins_when_started": 31,
-      "win_rate_when_started": 0.5167,
+      "win_rate_when_started": 0.5254,
       "total_starting_points": 529.0,
-      "ppg_started": 8.82,
+      "ppg_started": 8.97,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6911,6 +6911,18 @@
       "last_year": 2026
     },
     {
+      "player_id": 3116365,
+      "player_name": "Mark Andrews",
+      "position": "TE",
+      "weeks_started": 61,
+      "wins_when_started": 30,
+      "win_rate_when_started": 0.4918,
+      "total_starting_points": 527.1,
+      "ppg_started": 8.64,
+      "seasons_count": 7,
+      "last_year": 2026
+    },
+    {
       "player_id": -16021,
       "player_name": "Eagles D/ST",
       "position": "D/ST",
@@ -6933,18 +6945,6 @@
       "ppg_started": 13.94,
       "seasons_count": 6,
       "last_year": 2025
-    },
-    {
-      "player_id": 3116365,
-      "player_name": "Mark Andrews",
-      "position": "TE",
-      "weeks_started": 62,
-      "wins_when_started": 30,
-      "win_rate_when_started": 0.4839,
-      "total_starting_points": 527.1,
-      "ppg_started": 8.5,
-      "seasons_count": 7,
-      "last_year": 2026
     },
     {
       "player_id": 4242335,
@@ -9640,6 +9640,28 @@
             "mvp_score": 204.66
           },
           {
+            "player_id": 4429795,
+            "player_name": "Jahmyr Gibbs",
+            "position": "RB",
+            "team_id": 1,
+            "team_name": "We Did It, Joe!",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ],
+            "starting_points": 140.2,
+            "games_started": 6,
+            "team_wins_when_started": 3,
+            "team_winning_share_sum": 1.0512,
+            "ppg_started": 23.37,
+            "team_wins": 3,
+            "team_games": 7,
+            "team_win_rate": 0.4286,
+            "mvp_score": 201.78
+          },
+          {
             "player_id": 4567048,
             "player_name": "Kenneth Walker III",
             "position": "RB",
@@ -9682,28 +9704,6 @@
             "team_games": 7,
             "team_win_rate": 0.5714,
             "mvp_score": 172.97
-          },
-          {
-            "player_id": 4430807,
-            "player_name": "Bijan Robinson",
-            "position": "RB",
-            "team_id": 5,
-            "team_name": "Bijan Mustard",
-            "owner_ids": [
-              "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
-            ],
-            "owner_names": [
-              "Jonathan Coopersmith"
-            ],
-            "starting_points": 118.5,
-            "games_started": 7,
-            "team_wins_when_started": 3,
-            "team_winning_share_sum": 0.8788,
-            "ppg_started": 16.93,
-            "team_wins": 3,
-            "team_games": 7,
-            "team_win_rate": 0.4286,
-            "mvp_score": 170.26
           }
         ]
       },

@@ -1369,18 +1369,6 @@
       },
       {
         "team_id": 12,
-        "player_id": 4040715,
-        "player_name": "Jalen Hurts",
-        "position": "QB",
-        "pro_team": "PHI",
-        "base_round_this_year": 6,
-        "origin": "drafted",
-        "drafted_by_team_id": 12,
-        "consecutive_keeper_years_through_current": 0,
-        "use_adp_next_year": false
-      },
-      {
-        "team_id": 12,
         "player_id": 3916148,
         "player_name": "Tony Pollard",
         "position": "RB",
@@ -2629,18 +2617,6 @@
       },
       {
         "team_id": 1,
-        "player_id": 3116365,
-        "player_name": "Mark Andrews",
-        "position": "TE",
-        "pro_team": "BAL",
-        "base_round_this_year": 12,
-        "origin": "drafted",
-        "drafted_by_team_id": 1,
-        "consecutive_keeper_years_through_current": 0,
-        "use_adp_next_year": false
-      },
-      {
-        "team_id": 1,
         "player_id": 4697745,
         "player_name": "Tyler Loop",
         "position": "K",
@@ -2681,18 +2657,6 @@
         "player_name": "Patriots D/ST",
         "position": "D/ST",
         "pro_team": "NE",
-        "base_round_this_year": null,
-        "origin": "free_agent",
-        "drafted_by_team_id": null,
-        "consecutive_keeper_years_through_current": 0,
-        "use_adp_next_year": false
-      },
-      {
-        "team_id": 1,
-        "player_id": 8439,
-        "player_name": "Aaron Rodgers",
-        "position": "QB",
-        "pro_team": "PIT",
         "base_round_this_year": null,
         "origin": "free_agent",
         "drafted_by_team_id": null,
