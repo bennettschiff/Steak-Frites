@@ -5949,6 +5949,27 @@
         },
         {
           "year": 2026,
+          "week": 7,
+          "player_id": 3916148,
+          "player_name": "Tony Pollard",
+          "position": "RB",
+          "slot_position": "RB",
+          "pro_team": "TEN",
+          "points": 35.0,
+          "started": true,
+          "team_id": 12,
+          "team_name": "Run CMC ft. Omarion",
+          "owner_ids": [
+            "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+          ],
+          "owner_names": [
+            "Ryan Vader"
+          ],
+          "team_won": true,
+          "is_playoff": false
+        },
+        {
+          "year": 2026,
           "week": 1,
           "player_id": 3043078,
           "player_name": "Derrick Henry",
@@ -5987,27 +6008,6 @@
             "Jonathan Coopersmith"
           ],
           "team_won": true,
-          "is_playoff": false
-        },
-        {
-          "year": 2026,
-          "week": 5,
-          "player_id": 4569987,
-          "player_name": "Jaylen Warren",
-          "position": "RB",
-          "slot_position": "RB",
-          "pro_team": "PIT",
-          "points": 33.8,
-          "started": true,
-          "team_id": 5,
-          "team_name": "Bijan Mustard",
-          "owner_ids": [
-            "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
-          ],
-          "owner_names": [
-            "Jonathan Coopersmith"
-          ],
-          "team_won": false,
           "is_playoff": false
         }
       ],
@@ -6188,6 +6188,27 @@
         },
         {
           "year": 2026,
+          "week": 7,
+          "player_id": 4361307,
+          "player_name": "Trey McBride",
+          "position": "TE",
+          "slot_position": "TE",
+          "pro_team": "ARI",
+          "points": 22.1,
+          "started": true,
+          "team_id": 12,
+          "team_name": "Run CMC ft. Omarion",
+          "owner_ids": [
+            "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+          ],
+          "owner_names": [
+            "Ryan Vader"
+          ],
+          "team_won": true,
+          "is_playoff": false
+        },
+        {
+          "year": 2026,
           "week": 1,
           "player_id": 3121023,
           "player_name": "Dallas Goedert",
@@ -6205,27 +6226,6 @@
           "owner_names": [
             "Jake Fischer",
             "Seth Taratoot"
-          ],
-          "team_won": true,
-          "is_playoff": false
-        },
-        {
-          "year": 2026,
-          "week": 6,
-          "player_id": 4361050,
-          "player_name": "Isaiah Likely",
-          "position": "TE",
-          "slot_position": "TE",
-          "pro_team": "NYG",
-          "points": 20.9,
-          "started": true,
-          "team_id": 9,
-          "team_name": "Saquads squad  Ship",
-          "owner_ids": [
-            "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
-          ],
-          "owner_names": [
-            "Adam Heckelman"
           ],
           "team_won": true,
           "is_playoff": false
@@ -6458,11 +6458,11 @@
       "player_id": 15847,
       "player_name": "Travis Kelce",
       "position": "TE",
-      "weeks_started": 98,
-      "wins_when_started": 58,
-      "win_rate_when_started": 0.5918,
-      "total_starting_points": 1232.36,
-      "ppg_started": 12.58,
+      "weeks_started": 99,
+      "wins_when_started": 59,
+      "win_rate_when_started": 0.596,
+      "total_starting_points": 1238.76,
+      "ppg_started": 12.51,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6482,11 +6482,11 @@
       "player_id": 3916387,
       "player_name": "Lamar Jackson",
       "position": "QB",
-      "weeks_started": 90,
+      "weeks_started": 89,
       "wins_when_started": 50,
-      "win_rate_when_started": 0.5556,
+      "win_rate_when_started": 0.5618,
       "total_starting_points": 2011.46,
-      "ppg_started": 22.35,
+      "ppg_started": 22.6,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6494,11 +6494,23 @@
       "player_id": 3043078,
       "player_name": "Derrick Henry",
       "position": "RB",
-      "weeks_started": 100,
-      "wins_when_started": 48,
-      "win_rate_when_started": 0.48,
-      "total_starting_points": 1688.92,
-      "ppg_started": 16.89,
+      "weeks_started": 101,
+      "wins_when_started": 49,
+      "win_rate_when_started": 0.4851,
+      "total_starting_points": 1694.32,
+      "ppg_started": 16.78,
+      "seasons_count": 7,
+      "last_year": 2026
+    },
+    {
+      "player_id": 3117251,
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "weeks_started": 78,
+      "wins_when_started": 46,
+      "win_rate_when_started": 0.5897,
+      "total_starting_points": 1656.26,
+      "ppg_started": 21.23,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6515,14 +6527,14 @@
       "last_year": 2026
     },
     {
-      "player_id": 3117251,
-      "player_name": "Christian McCaffrey",
+      "player_id": 4047365,
+      "player_name": "Josh Jacobs",
       "position": "RB",
-      "weeks_started": 77,
+      "weeks_started": 87,
       "wins_when_started": 45,
-      "win_rate_when_started": 0.5844,
-      "total_starting_points": 1637.26,
-      "ppg_started": 21.26,
+      "win_rate_when_started": 0.5172,
+      "total_starting_points": 1278.6,
+      "ppg_started": 14.7,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6554,23 +6566,11 @@
       "player_id": 4035538,
       "player_name": "David Montgomery",
       "position": "RB",
-      "weeks_started": 79,
+      "weeks_started": 78,
       "wins_when_started": 44,
-      "win_rate_when_started": 0.557,
+      "win_rate_when_started": 0.5641,
       "total_starting_points": 956.34,
-      "ppg_started": 12.11,
-      "seasons_count": 7,
-      "last_year": 2026
-    },
-    {
-      "player_id": 4047365,
-      "player_name": "Josh Jacobs",
-      "position": "RB",
-      "weeks_started": 86,
-      "wins_when_started": 44,
-      "win_rate_when_started": 0.5116,
-      "total_starting_points": 1261.0,
-      "ppg_started": 14.66,
+      "ppg_started": 12.26,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6590,11 +6590,11 @@
       "player_id": 3040151,
       "player_name": "George Kittle",
       "position": "TE",
-      "weeks_started": 78,
+      "weeks_started": 79,
       "wins_when_started": 41,
-      "win_rate_when_started": 0.5256,
-      "total_starting_points": 939.8,
-      "ppg_started": 12.05,
+      "win_rate_when_started": 0.519,
+      "total_starting_points": 950.6,
+      "ppg_started": 12.03,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6605,8 +6605,8 @@
       "weeks_started": 75,
       "wins_when_started": 40,
       "win_rate_when_started": 0.5333,
-      "total_starting_points": 1053.2,
-      "ppg_started": 14.04,
+      "total_starting_points": 1056.3,
+      "ppg_started": 14.08,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6614,11 +6614,11 @@
       "player_id": 3918298,
       "player_name": "Josh Allen",
       "position": "QB",
-      "weeks_started": 98,
+      "weeks_started": 97,
       "wins_when_started": 40,
-      "win_rate_when_started": 0.4082,
+      "win_rate_when_started": 0.4124,
       "total_starting_points": 2320.78,
-      "ppg_started": 23.68,
+      "ppg_started": 23.93,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6626,11 +6626,11 @@
       "player_id": 4239993,
       "player_name": "Tee Higgins",
       "position": "WR",
-      "weeks_started": 63,
-      "wins_when_started": 37,
-      "win_rate_when_started": 0.5873,
-      "total_starting_points": 747.7,
-      "ppg_started": 11.87,
+      "weeks_started": 64,
+      "wins_when_started": 38,
+      "win_rate_when_started": 0.5938,
+      "total_starting_points": 771.5,
+      "ppg_started": 12.05,
       "seasons_count": 6,
       "last_year": 2026
     },
@@ -6638,11 +6638,11 @@
       "player_id": 4241389,
       "player_name": "CeeDee Lamb",
       "position": "WR",
-      "weeks_started": 69,
+      "weeks_started": 70,
       "wins_when_started": 37,
-      "win_rate_when_started": 0.5362,
-      "total_starting_points": 1040.1,
-      "ppg_started": 15.07,
+      "win_rate_when_started": 0.5286,
+      "total_starting_points": 1062.0,
+      "ppg_started": 15.17,
       "seasons_count": 6,
       "last_year": 2026
     },
@@ -6662,11 +6662,11 @@
       "player_id": 4047650,
       "player_name": "DK Metcalf",
       "position": "WR",
-      "weeks_started": 79,
+      "weeks_started": 80,
       "wins_when_started": 37,
-      "win_rate_when_started": 0.4684,
-      "total_starting_points": 895.9,
-      "ppg_started": 11.34,
+      "win_rate_when_started": 0.4625,
+      "total_starting_points": 902.5,
+      "ppg_started": 11.28,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6674,12 +6674,24 @@
       "player_id": 4430807,
       "player_name": "Bijan Robinson",
       "position": "RB",
-      "weeks_started": 55,
-      "wins_when_started": 35,
-      "win_rate_when_started": 0.6364,
-      "total_starting_points": 919.6,
-      "ppg_started": 16.72,
+      "weeks_started": 56,
+      "wins_when_started": 36,
+      "win_rate_when_started": 0.6429,
+      "total_starting_points": 934.3,
+      "ppg_started": 16.68,
       "seasons_count": 4,
+      "last_year": 2026
+    },
+    {
+      "player_id": 4374302,
+      "player_name": "Amon-Ra St. Brown",
+      "position": "WR",
+      "weeks_started": 67,
+      "wins_when_started": 36,
+      "win_rate_when_started": 0.5373,
+      "total_starting_points": 1025.08,
+      "ppg_started": 15.3,
+      "seasons_count": 5,
       "last_year": 2026
     },
     {
@@ -6695,26 +6707,14 @@
       "last_year": 2026
     },
     {
-      "player_id": 4374302,
-      "player_name": "Amon-Ra St. Brown",
-      "position": "WR",
-      "weeks_started": 66,
-      "wins_when_started": 35,
-      "win_rate_when_started": 0.5303,
-      "total_starting_points": 1005.38,
-      "ppg_started": 15.23,
-      "seasons_count": 5,
-      "last_year": 2026
-    },
-    {
       "player_id": 16737,
       "player_name": "Mike Evans",
       "position": "WR",
-      "weeks_started": 74,
+      "weeks_started": 73,
       "wins_when_started": 34,
-      "win_rate_when_started": 0.4595,
+      "win_rate_when_started": 0.4658,
       "total_starting_points": 989.5,
-      "ppg_started": 13.37,
+      "ppg_started": 13.55,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6734,11 +6734,23 @@
       "player_id": 4047646,
       "player_name": "A.J. Brown",
       "position": "WR",
-      "weeks_started": 74,
+      "weeks_started": 75,
       "wins_when_started": 34,
-      "win_rate_when_started": 0.4595,
-      "total_starting_points": 1030.2,
-      "ppg_started": 13.92,
+      "win_rate_when_started": 0.4533,
+      "total_starting_points": 1036.5,
+      "ppg_started": 13.82,
+      "seasons_count": 7,
+      "last_year": 2026
+    },
+    {
+      "player_id": 3929630,
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "weeks_started": 80,
+      "wins_when_started": 33,
+      "win_rate_when_started": 0.4125,
+      "total_starting_points": 1222.7,
+      "ppg_started": 15.28,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6782,36 +6794,48 @@
       "player_id": -16025,
       "player_name": "49ers D/ST",
       "position": "D/ST",
-      "weeks_started": 61,
+      "weeks_started": 62,
       "wins_when_started": 32,
-      "win_rate_when_started": 0.5246,
-      "total_starting_points": 463.0,
-      "ppg_started": 7.59,
+      "win_rate_when_started": 0.5161,
+      "total_starting_points": 464.0,
+      "ppg_started": 7.48,
       "seasons_count": 7,
+      "last_year": 2026
+    },
+    {
+      "player_id": 4362628,
+      "player_name": "Ja'Marr Chase",
+      "position": "WR",
+      "weeks_started": 65,
+      "wins_when_started": 32,
+      "win_rate_when_started": 0.4923,
+      "total_starting_points": 1020.62,
+      "ppg_started": 15.7,
+      "seasons_count": 5,
+      "last_year": 2026
+    },
+    {
+      "player_id": 4259545,
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "weeks_started": 69,
+      "wins_when_started": 32,
+      "win_rate_when_started": 0.4638,
+      "total_starting_points": 857.1,
+      "ppg_started": 12.42,
+      "seasons_count": 6,
       "last_year": 2026
     },
     {
       "player_id": 4262921,
       "player_name": "Justin Jefferson",
       "position": "WR",
-      "weeks_started": 68,
+      "weeks_started": 69,
       "wins_when_started": 32,
-      "win_rate_when_started": 0.4706,
-      "total_starting_points": 978.94,
-      "ppg_started": 14.4,
+      "win_rate_when_started": 0.4638,
+      "total_starting_points": 985.34,
+      "ppg_started": 14.28,
       "seasons_count": 6,
-      "last_year": 2026
-    },
-    {
-      "player_id": 3929630,
-      "player_name": "Saquon Barkley",
-      "position": "RB",
-      "weeks_started": 78,
-      "wins_when_started": 32,
-      "win_rate_when_started": 0.4103,
-      "total_starting_points": 1208.6,
-      "ppg_started": 15.49,
-      "seasons_count": 7,
       "last_year": 2026
     },
     {
@@ -6839,18 +6863,6 @@
       "last_year": 2026
     },
     {
-      "player_id": 4362628,
-      "player_name": "Ja'Marr Chase",
-      "position": "WR",
-      "weeks_started": 64,
-      "wins_when_started": 31,
-      "win_rate_when_started": 0.4844,
-      "total_starting_points": 1005.92,
-      "ppg_started": 15.72,
-      "seasons_count": 5,
-      "last_year": 2026
-    },
-    {
       "player_id": 4040715,
       "player_name": "Jalen Hurts",
       "position": "QB",
@@ -6859,18 +6871,6 @@
       "win_rate_when_started": 0.4769,
       "total_starting_points": 1427.98,
       "ppg_started": 21.97,
-      "seasons_count": 6,
-      "last_year": 2026
-    },
-    {
-      "player_id": 4259545,
-      "player_name": "D'Andre Swift",
-      "position": "RB",
-      "weeks_started": 68,
-      "wins_when_started": 31,
-      "win_rate_when_started": 0.4559,
-      "total_starting_points": 840.1,
-      "ppg_started": 12.35,
       "seasons_count": 6,
       "last_year": 2026
     },
@@ -6950,11 +6950,11 @@
       "player_id": 4242335,
       "player_name": "Jonathan Taylor",
       "position": "RB",
-      "weeks_started": 63,
+      "weeks_started": 64,
       "wins_when_started": 30,
-      "win_rate_when_started": 0.4762,
-      "total_starting_points": 979.7,
-      "ppg_started": 15.55,
+      "win_rate_when_started": 0.4688,
+      "total_starting_points": 997.7,
+      "ppg_started": 15.59,
       "seasons_count": 6,
       "last_year": 2026
     },
@@ -6962,11 +6962,11 @@
       "player_id": 3915416,
       "player_name": "DJ Moore",
       "position": "WR",
-      "weeks_started": 64,
+      "weeks_started": 65,
       "wins_when_started": 30,
-      "win_rate_when_started": 0.4688,
+      "win_rate_when_started": 0.4615,
       "total_starting_points": 738.3,
-      "ppg_started": 11.54,
+      "ppg_started": 11.36,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6974,11 +6974,11 @@
       "player_id": 3121023,
       "player_name": "Dallas Goedert",
       "position": "TE",
-      "weeks_started": 52,
+      "weeks_started": 53,
       "wins_when_started": 29,
-      "win_rate_when_started": 0.5577,
-      "total_starting_points": 452.8,
-      "ppg_started": 8.71,
+      "win_rate_when_started": 0.5472,
+      "total_starting_points": 460.1,
+      "ppg_started": 8.68,
       "seasons_count": 7,
       "last_year": 2026
     },
@@ -6998,11 +6998,11 @@
       "player_id": 4567048,
       "player_name": "Kenneth Walker III",
       "position": "RB",
-      "weeks_started": 54,
+      "weeks_started": 55,
       "wins_when_started": 29,
-      "win_rate_when_started": 0.537,
-      "total_starting_points": 733.4,
-      "ppg_started": 13.58,
+      "win_rate_when_started": 0.5273,
+      "total_starting_points": 741.1,
+      "ppg_started": 13.47,
       "seasons_count": 5,
       "last_year": 2026
     },
@@ -9593,51 +9593,51 @@
     "2026": {
       "regular_season": {
         "mvp": {
-          "player_id": 3918298,
-          "player_name": "Josh Allen",
-          "position": "QB",
-          "team_id": 2,
-          "team_name": "Jake and Seth",
+          "player_id": 4430878,
+          "player_name": "Jaxon Smith-Njigba",
+          "position": "WR",
+          "team_id": 11,
+          "team_name": "Monanguys",
           "owner_ids": [
-            "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}",
-            "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            "{93FE02E3-D523-4B1D-AC57-E31C8D235433}"
           ],
           "owner_names": [
-            "Jake Fischer",
-            "Seth Taratoot"
+            "Jules Salkind"
           ],
-          "starting_points": 164.76,
-          "games_started": 7,
-          "team_wins_when_started": 2,
-          "team_winning_share_sum": 1.4493,
-          "ppg_started": 23.54,
-          "team_wins": 2,
-          "team_games": 7,
-          "team_win_rate": 0.2857,
-          "mvp_score": 231.78
+          "starting_points": 167.16,
+          "games_started": 8,
+          "team_wins_when_started": 3,
+          "team_winning_share_sum": 1.4636,
+          "ppg_started": 20.89,
+          "team_wins": 3,
+          "team_games": 8,
+          "team_win_rate": 0.375,
+          "mvp_score": 242.41
         },
         "runners_up": [
           {
-            "player_id": 4430878,
-            "player_name": "Jaxon Smith-Njigba",
-            "position": "WR",
-            "team_id": 11,
-            "team_name": "Monanguys",
+            "player_id": 3918298,
+            "player_name": "Josh Allen",
+            "position": "QB",
+            "team_id": 2,
+            "team_name": "Jake and Seth",
             "owner_ids": [
-              "{93FE02E3-D523-4B1D-AC57-E31C8D235433}"
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}",
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
             ],
             "owner_names": [
-              "Jules Salkind"
+              "Jake Fischer",
+              "Seth Taratoot"
             ],
-            "starting_points": 140.36,
-            "games_started": 7,
-            "team_wins_when_started": 3,
-            "team_winning_share_sum": 1.1408,
-            "ppg_started": 20.05,
-            "team_wins": 3,
-            "team_games": 7,
-            "team_win_rate": 0.4286,
-            "mvp_score": 204.66
+            "starting_points": 164.76,
+            "games_started": 6,
+            "team_wins_when_started": 2,
+            "team_winning_share_sum": 1.4493,
+            "ppg_started": 27.46,
+            "team_wins": 2,
+            "team_games": 8,
+            "team_win_rate": 0.25,
+            "mvp_score": 228.83
           },
           {
             "player_id": 4429795,
@@ -9651,15 +9651,15 @@
             "owner_names": [
               "Bennett Schiff"
             ],
-            "starting_points": 140.2,
-            "games_started": 6,
+            "starting_points": 155.0,
+            "games_started": 7,
             "team_wins_when_started": 3,
-            "team_winning_share_sum": 1.0512,
-            "ppg_started": 23.37,
+            "team_winning_share_sum": 1.1935,
+            "ppg_started": 22.14,
             "team_wins": 3,
-            "team_games": 7,
-            "team_win_rate": 0.4286,
-            "mvp_score": 201.78
+            "team_games": 8,
+            "team_win_rate": 0.375,
+            "mvp_score": 219.87
           },
           {
             "player_id": 4567048,
@@ -9673,15 +9673,15 @@
             "owner_names": [
               "Ben Wolbransky"
             ],
-            "starting_points": 131.0,
-            "games_started": 6,
+            "starting_points": 138.7,
+            "games_started": 7,
             "team_wins_when_started": 3,
-            "team_winning_share_sum": 1.0828,
-            "ppg_started": 21.83,
+            "team_winning_share_sum": 1.1788,
+            "ppg_started": 19.81,
             "team_wins": 4,
-            "team_games": 7,
-            "team_win_rate": 0.5714,
-            "mvp_score": 200.91
+            "team_games": 8,
+            "team_win_rate": 0.5,
+            "mvp_score": 208.74
           },
           {
             "player_id": 4361741,
@@ -9695,15 +9695,15 @@
             "owner_names": [
               "Stefan Lachkar"
             ],
-            "starting_points": 113.9,
+            "starting_points": 127.92,
             "games_started": 6,
-            "team_wins_when_started": 3,
-            "team_winning_share_sum": 0.8842,
-            "ppg_started": 18.98,
-            "team_wins": 4,
-            "team_games": 7,
-            "team_win_rate": 0.5714,
-            "mvp_score": 172.97
+            "team_wins_when_started": 4,
+            "team_winning_share_sum": 1.0002,
+            "ppg_started": 21.32,
+            "team_wins": 5,
+            "team_games": 8,
+            "team_win_rate": 0.625,
+            "mvp_score": 197.9
           }
         ]
       },
