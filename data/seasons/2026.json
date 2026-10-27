@@ -3767,7 +3767,7 @@
         "pro_team": "GB",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "DAY_TO_DAY"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "away",
@@ -4765,7 +4765,7 @@
         "pro_team": "GB",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "DAY_TO_DAY"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "home",
@@ -5425,7 +5425,7 @@
         "pro_team": "CAR",
         "points": 10.6,
         "projected_points": 9.67,
-        "injury_status": "QUESTIONABLE"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "away",
@@ -6567,7 +6567,7 @@
         "pro_team": "GB",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "DAY_TO_DAY"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "away",
@@ -8019,7 +8019,7 @@
         "pro_team": "CAR",
         "points": 2.8,
         "projected_points": 11.13,
-        "injury_status": "QUESTIONABLE"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "home",
@@ -8381,7 +8381,7 @@
         "pro_team": "GB",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "DAY_TO_DAY"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "home",
@@ -10229,7 +10229,7 @@
         "pro_team": "CAR",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "QUESTIONABLE"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "away",
@@ -10531,7 +10531,7 @@
         "pro_team": "PHI",
         "points": 2.2,
         "projected_points": 6.61,
-        "injury_status": "ACTIVE"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -10639,7 +10639,7 @@
         "pro_team": "CAR",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "QUESTIONABLE"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "away",
@@ -10819,7 +10819,7 @@
         "pro_team": "GB",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "DAY_TO_DAY"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "home",
@@ -12645,7 +12645,7 @@
         "pro_team": "GB",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "DAY_TO_DAY"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "away",
@@ -13545,7 +13545,7 @@
         "pro_team": "PHI",
         "points": 13.0,
         "projected_points": 11.41,
-        "injury_status": "ACTIVE"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -13677,7 +13677,7 @@
         "pro_team": "CAR",
         "points": 12.7,
         "projected_points": 11.34,
-        "injury_status": "QUESTIONABLE"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "home",
@@ -14591,7 +14591,7 @@
         "pro_team": "NYG",
         "points": 8.2,
         "projected_points": 5.0,
-        "injury_status": "QUESTIONABLE"
+        "injury_status": "OUT"
       },
       {
         "side": "away",
@@ -15167,7 +15167,7 @@
         "pro_team": "PHI",
         "points": 11.3,
         "projected_points": 5.84,
-        "injury_status": "ACTIVE"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "away",
@@ -15515,7 +15515,7 @@
         "pro_team": "CAR",
         "points": 1.4,
         "projected_points": 12.57,
-        "injury_status": "QUESTIONABLE"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "away",
@@ -15695,7 +15695,7 @@
         "pro_team": "GB",
         "points": 17.6,
         "projected_points": 11.58,
-        "injury_status": "DAY_TO_DAY"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "home",
@@ -16981,7 +16981,7 @@
         "pro_team": "PHI",
         "points": 0.0,
         "projected_points": 8.1,
-        "injury_status": "ACTIVE"
+        "injury_status": "QUESTIONABLE"
       },
       {
         "side": "home",
@@ -17433,7 +17433,7 @@
         "player_id": 4379399,
         "player_name": "James Cook III",
         "position": "RB",
-        "slot_position": "BE",
+        "slot_position": "RB",
         "pro_team": "BUF",
         "points": 0.0,
         "projected_points": 17.91,
@@ -17457,7 +17457,7 @@
         "player_id": 3918298,
         "player_name": "Josh Allen",
         "position": "QB",
-        "slot_position": "BE",
+        "slot_position": "QB",
         "pro_team": "BUF",
         "points": 0.0,
         "projected_points": 24.4,
@@ -17601,7 +17601,7 @@
         "player_id": 8439,
         "player_name": "Aaron Rodgers",
         "position": "QB",
-        "slot_position": "QB",
+        "slot_position": "BE",
         "pro_team": "PIT",
         "points": 0.0,
         "projected_points": 15.76,
@@ -17625,11 +17625,11 @@
         "player_id": 4360516,
         "player_name": "Tyrone Tracy Jr.",
         "position": "RB",
-        "slot_position": "RB",
+        "slot_position": "BE",
         "pro_team": "NYG",
         "points": 0.0,
         "projected_points": 0.0,
-        "injury_status": "QUESTIONABLE"
+        "injury_status": "OUT"
       },
       {
         "side": "home",
@@ -17865,7 +17865,7 @@
         "player_id": 4258173,
         "player_name": "Nico Collins",
         "position": "WR",
-        "slot_position": "WR",
+        "slot_position": "BE",
         "pro_team": "HOU",
         "points": 0.0,
         "projected_points": 0.0,
@@ -17877,7 +17877,7 @@
         "player_id": 3916387,
         "player_name": "Lamar Jackson",
         "position": "QB",
-        "slot_position": "BE",
+        "slot_position": "QB",
         "pro_team": "BAL",
         "points": 0.0,
         "projected_points": 22.69,
@@ -17917,7 +17917,7 @@
         "pro_team": "GB",
         "points": 0.0,
         "projected_points": 13.61,
-        "injury_status": "DAY_TO_DAY"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "away",
@@ -17985,7 +17985,7 @@
         "player_id": 4685278,
         "player_name": "Luther Burden III",
         "position": "WR",
-        "slot_position": "BE",
+        "slot_position": "WR",
         "pro_team": "CHI",
         "points": 0.0,
         "projected_points": 10.83,
@@ -18033,7 +18033,7 @@
         "player_id": 4432577,
         "player_name": "C.J. Stroud",
         "position": "QB",
-        "slot_position": "QB",
+        "slot_position": "BE",
         "pro_team": "HOU",
         "points": 0.0,
         "projected_points": 0.0,
@@ -18145,7 +18145,7 @@
         "pro_team": "CAR",
         "points": 0.0,
         "projected_points": 11.9,
-        "injury_status": "QUESTIONABLE"
+        "injury_status": "ACTIVE"
       },
       {
         "side": "home",
